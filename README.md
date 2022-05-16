@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Covid tracker app
+## Getting Started
+For setting up the development environment, follow the steps given below.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clone this repository in your local
+```sh
+ git clone git@github.com:sureshkumarAQ/Commodity_Report.git
+```
+2. Install the required packages
+```sh
+ npm i
+```
+3. Finally start the server 
+   ```sh
+   npm start
+   ```
