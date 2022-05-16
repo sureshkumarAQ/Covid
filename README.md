@@ -14,4 +14,4 @@ For setting up the development environment, follow the steps given below.
    ```sh
    npm start
    ```
-[Deployed Link](https://covid-19-tracker-2022.herokuapp.com/) 
+Deployed on heroku [ Link](https://covid-19-tracker-2022.herokuapp.com/) 
